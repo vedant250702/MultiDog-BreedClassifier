@@ -47,7 +47,7 @@ This project detects **multiple dogs** in a single image, crops each, and predic
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/dog-breed-classification.git
+git clone https://github.com/vedant250702/MultiDog-BreedClassifier.git
 cd dog-breed-classification
 
 # Install dependencies
